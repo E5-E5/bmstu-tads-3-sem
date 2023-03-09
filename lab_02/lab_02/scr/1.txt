@@ -1,0 +1,75 @@
+Denmark 3000000 Yerevan Europe 1 1 10 History
+Denmark 5000000 Cairo Asia 0 1 500 History
+Australia 3000000 Copenhagen Asia 0 1 500 Art
+Denmark 5000000 Canberra Africa 0 1 1000 Art
+Egypt 4000000 Moscow Asia 0 1 500 Nature
+Egypt 2000000 Cairo Africa 1 1 500 Art
+Denmark 3000000 Moscow Africa 0 1 10 Art
+Armenia 2000000 Copenhagen Australia 0 1 1000 Nature
+Russia 2000000 Cairo Australia 0 1 1000 Nature
+Russia 3000000 Copenhagen Europe 1 1 1000 Art
+Armenia 1000000 Yerevan Europe 0 1 1000 Nature
+Australia 4000000 Moscow Asia 1 1 500 Art
+Russia 1000000 Yerevan Australia 0 1 500 Art
+Russia 3000000 Yerevan Asia 0 1 10 Art
+Australia 3000000 Moscow Australia 1 1 1000 History
+Denmark 5000000 Yerevan Europe 0 1 10 Nature
+Denmark 3000000 Canberra Africa 0 1 500 History
+Russia 2000000 Copenhagen Europe 0 1 10 Nature
+Australia 4000000 Cairo Asia 1 1 500 History
+Australia 5000000 Cairo Europe 0 1 10 Art
+Armenia 2000000 Copenhagen Asia 0 1 10 History
+Denmark 5000000 Cairo Africa 1 1 500 Nature
+Armenia 5000000 Cairo Australia 0 1 10 Nature
+Egypt 3000000 Canberra Asia 0 1 500 History
+Denmark 4000000 Cairo Africa 1 1 500 Nature
+Australia 1000000 Canberra Africa 0 2 Winter -10 -10 40
+Australia 5000000 Moscow Europe 0 2 Winter 0 30 40
+Australia 5000000 Cairo Europe 0 2 Summer 30 0 40
+Egypt 2000000 Yerevan Europe 1 2 Autumn -10 20 180
+Egypt 5000000 Yerevan Asia 0 2 Summer 20 0 120
+Russia 1000000 Yerevan Australia 1 2 Winter 0 0 40
+Denmark 3000000 Canberra Australia 0 2 Summer 0 -10 180
+Egypt 5000000 Canberra Asia 1 2 Winter -10 -10 120
+Egypt 5000000 Cairo Asia 0 2 Summer 20 30 180
+Australia 2000000 Canberra Europe 1 2 Winter 10 20 40
+Armenia 5000000 Moscow Asia 0 2 Autumn -10 30 40
+Denmark 2000000 Moscow Europe 1 2 Winter 20 30 40
+Armenia 2000000 Cairo Europe 0 2 Summer 30 0 40
+Egypt 1000000 Canberra Australia 1 2 Winter -10 30 180
+Egypt 5000000 Cairo Asia 0 2 Spring 0 20 120
+Egypt 3000000 Cairo Europe 0 2 Spring 30 30 40
+Armenia 5000000 Moscow Europe 0 2 Winter 0 10 60
+Armenia 1000000 Cairo Africa 0 2 Summer 20 -10 180
+Denmark 5000000 Cairo Africa 1 2 Autumn -10 30 180
+Armenia 1000000 Copenhagen Australia 0 2 Spring -10 10 60
+Armenia 5000000 Yerevan Europe 1 2 Spring 0 -10 120
+Egypt 1000000 Moscow Asia 1 2 Winter -10 10 60
+Russia 4000000 Moscow Africa 1 2 Autumn 30 10 40
+Armenia 5000000 Moscow Europe 1 2 Spring 20 0 120
+Armenia 2000000 Cairo Asia 0 2 Winter 20 20 180
+Russia 1000000 Cairo Europe 0 3 Surfing 100000
+Australia 4000000 Cairo Europe 1 3 Surfing 100000
+Egypt 3000000 Copenhagen Africa 1 3 Skiing 30000
+Australia 2000000 Moscow Australia 1 3 Climbing 10000
+Denmark 3000000 Canberra Africa 0 3 Climbing 20000
+Egypt 2000000 Moscow Asia 1 3 Skiing 30000
+Denmark 4000000 Cairo Australia 1 3 Surfing 10000
+Denmark 5000000 Canberra Asia 0 3 Surfing 30000
+Australia 4000000 Canberra Africa 1 3 Surfing 10000
+Armenia 4000000 Canberra Asia 1 3 Skiing 20000
+Russia 3000000 Cairo Asia 0 3 Climbing 10000
+Denmark 2000000 Copenhagen Asia 1 3 Surfing 20000
+Egypt 1000000 Copenhagen Africa 1 3 Climbing 20000
+Russia 3000000 Moscow Australia 0 3 Surfing 30000
+Denmark 2000000 Cairo Australia 0 3 Climbing 10000
+Egypt 5000000 Moscow Australia 1 3 Surfing 30000
+Egypt 2000000 Copenhagen Asia 1 3 Surfing 20000
+Armenia 5000000 Cairo Africa 1 3 Skiing 30000
+Denmark 5000000 Yerevan Asia 0 3 Surfing 20000
+Australia 1000000 Canberra Australia 0 3 Skiing 30000
+Denmark 1000000 Canberra Europe 0 3 Skiing 10000
+Armenia 4000000 Canberra Asia 1 3 Surfing 10000
+Denmark 3000000 Moscow Asia 1 3 Climbing 100000
+Russia 3000000 Copenhagen Asia 0 3 Skiing 100000
+Egypt 3000000 Moscow Australia 1 3 Skiing 100000
